@@ -9,11 +9,11 @@ VERSION = '1.0.0'
 DESCRIPTION = 'Flatten nested Python lists into a single-depth list'
 
 setup(
-    name="flatify-list",
+    name="flatifyList",
     version=VERSION,
     author="Karishma Shukla",
     author_email="karishmashuklaa@gmail.com",
-    url="https://github.com/karishmashuklaa/flatify-list",
+    url="https://github.com/karishmashuklaa/flatifyList",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description= readme(),
