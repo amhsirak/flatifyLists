@@ -1,5 +1,5 @@
 import pytest
-from flatifyList import flatifyList
+from flatifylists import flatifyList
 
 pytestmark = pytest.mark.filterwarnings("ignore")
 
