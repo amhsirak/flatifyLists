@@ -1,17 +1,17 @@
-## flatifyList
+## flatifylists
 
 Flatten nested Python lists into single-depth lists
 
 ### Installation
 
 ```
-pip install flatifyList
+pip install flatifylists
 ```
 
 ### Example
 
 ```py
-from flatifyList import flatifyList
+from flatifylists import flatifyList
 
 example = [[[1,2], [3,[4,[5],6],7],8,9]]
 
