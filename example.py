@@ -1,4 +1,4 @@
-from flatifyList.flatifyList import *
+from flatifyList import flatifyList
 
 example = [[[1,2], [3,[4,[5],6],7],8,9]]
 
